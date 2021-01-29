@@ -1,0 +1,49 @@
+h1{
+   color: #6FBFBF;
+   font-family: 'Sacramento', cursive;
+   font-size: 90px;
+   margin: 0px;
+   text-align: center;
+}
+h3{
+  font-family: 'Satisfy',cursive;
+  font-size: 50px;
+  color: #6FBFBF;
+  text-align: center;
+}
+div{
+background-color: #EAF6F6;
+background-image: url("school.jpg");
+background-size: cover;
+}
+body{
+  margin: 0px;
+}
+img{
+  width: 1412px;
+}
+
+h2{
+  color: #6FBFBF;
+}
+P{
+  color: #6FBFBF;
+}
+table{
+	color: #6FBFBF;
+}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	color: darkgrey;
+	border-width:5px;
+	width:5%
+}
+ul{
+	color: #6FBFBF;
+}
+input{
+	text-align: center;
+  height: 15px
+	  margin:0px;
+}
